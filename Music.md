@@ -18,3 +18,5 @@ Also covering:-
 - Opera 
 - Musicals
 - Music on film
+
+Cover political, social and technological change.
