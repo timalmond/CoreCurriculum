@@ -1,5 +1,6 @@
 These are the tenets of this project:-
 
+- The school serves its pupils. They are not members of the school, or there to boost the prestige of the school.
 - We aim to teach what will be generally useful to people for as long as possible. 
 - Time is limited. Teaching one thing is at the exclusion of another.
 - We are not interested in nostalgia. That which is proposed must be defended on current merits, not on the past.
