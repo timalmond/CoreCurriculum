@@ -15,6 +15,19 @@ Children should be given a foundation in history and styles of art, to expand th
 
 At a simple level they should understand (including practicals) how art is produced.
 
-The history of film and techniques should also be covered from early work, through black and white, sound, colour and into digital.
+The history of film :-
+
+- Meliers/Eisenstein
+- Chaplin/Keaton
+- DW Griffith and narrative cinema
+- Jazz Singer and Sound
+- Colour (Adventures of Robin Hood)
+- WW2 Propaganda (Triumph of the Will/Olympia/US war films)
+- MGM Musicals
+- French New Wave
+- Japanese and Indian Cinema
+- US New Wave
+- Video
+- Digital era
 
 We should also talk about the social, technological and political changes around art, and the purpose for much art (government and religious propaganda, marriage of aristocrats).
